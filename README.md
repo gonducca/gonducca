@@ -1,8 +1,8 @@
 ## Hello :wave:
 My name is Gonzalo, I'm from Argentina and I'm a Data Scientist student.
 
-*Currently studying Data Science at [@soyHenry](https://github.com/soyHenry).
-*I'm a Maths teacher in a bilingual high school.
+* Currently studying Data Science at [@soyHenry](https://github.com/soyHenry).
+* I'm a Maths teacher in a bilingual high school.
 
 ## Skills
 
@@ -11,17 +11,4 @@ My name is Gonzalo, I'm from Argentina and I'm a Data Scientist student.
 * Teamwork skills.
 
 ## Contact
-(gonzaloducca@gmail.com)
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
+gonzaloducca@gmail.com
