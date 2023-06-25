@@ -1,4 +1,4 @@
-##Hello :wave:
+## Hello :wave:
 My name is Gonzalo, I'm from Argentina and I'm a Data Scientist student.
 
 *Currently studying Data Science at [@soyHenry](https://github.com/soyHenry).
