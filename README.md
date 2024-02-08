@@ -11,5 +11,5 @@ My name is Gonzalo, I'm from Argentina and I'm a Data Scientist student.
 * Comunication and teamwork skills.
 
 ## Contact
-*gonzaloducca@gmail.com
-*[Linkedn](https://www.linkedin.com/in/gonzalo-ducca-b079011b2/)
+* gonzaloducca@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/gonzalo-ducca-b079011b2/)
