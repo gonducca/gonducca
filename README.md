@@ -7,7 +7,7 @@ Científico de datos, enfocado en BI y análisis para el sector financiero. Trab
 - **[Tablero del sistema financiero argentino](https://github.com/gonducca/BCRA-PowerBI)**: Power BI + SQL + DAX con datos públicos del BCRA. En el último año el plazo fijo le ganó a la inflación solo en 4 de 12 meses.
 - **[Predicción de reingresos hospitalarios](https://github.com/gonducca/readmission-alert)**: modelo de machine learning y dashboard en Streamlit para pacientes con diabetes.
 - **[Siniestros viales en Buenos Aires](https://github.com/gonducca/PI2)**: EDA y tablero en Power BI.
-- **[Análisis de churn en telecomunicaciones](https://github.com/gonducca/nocountry)**: proyecto en equipo, EDA y tablero en Power BI.
+
 
 ### Herramientas
 
