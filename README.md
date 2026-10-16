@@ -1,15 +1,18 @@
-## Hello :wave:
-My name is Gonzalo, I'm from Argentina and I'm a Data Scientist student.
+## Hola, soy Gonzalo
 
-* Graduate [@soyHenry](https://github.com/soyHenry) Data Science bootcamp.
-* I'm a Maths teacher in a bilingual high school.
+Científico de datos, enfocado en BI y análisis para el sector financiero. Trabajo con Python, SQL, DAX y Power BI, y también doy clases de estadística y matemática aplicada.
 
-## Skills
+### Proyectos
 
-* Critical thinking, decision-making and problem solving skills.
-* Python | mySQL | Machine Learning.
-* Comunication and teamwork skills.
+- **[Tablero del sistema financiero argentino](https://github.com/gonducca/BCRA-PowerBI)**: Power BI + SQL + DAX con datos públicos del BCRA. En el último año el plazo fijo le ganó a la inflación solo en 4 de 12 meses.
+- **[Predicción de reingresos hospitalarios](https://github.com/gonducca/readmission-alert)**: modelo de machine learning y dashboard en Streamlit para pacientes con diabetes.
+- **[Siniestros viales en Buenos Aires](https://github.com/gonducca/PI2)**: EDA y tablero en Power BI.
+- **[Análisis de churn en telecomunicaciones](https://github.com/gonducca/nocountry)**: proyecto en equipo, EDA y tablero en Power BI.
 
-## Contact
-* gonzaloducca@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/gonzalo-ducca-b079011b2/)
+### Herramientas
+
+Python · SQL · DAX · Power BI · Machine Learning · Git
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/gonzalo-ducca-b079011b2/)
