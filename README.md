@@ -22,4 +22,4 @@ También doy clases de estadística y matemática aplicada.
 Python · SQL · DAX · Power BI · Git
 
 ## Contacto
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/gonzalo-ducca-b079011b2/?isSelfProfile=true&locale=es)
